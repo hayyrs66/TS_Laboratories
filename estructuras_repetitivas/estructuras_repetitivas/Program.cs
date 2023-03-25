@@ -10,7 +10,7 @@ namespace estructuras_repetitivas
     {
         static void Main(string[] args)
         { 
-            // Ricardo Guevara 1176323
+            // Ricardo Guevara  1176323
 
             Ejercicios.Ejercicio1();
             Ejercicios.Ejercicio2();    
